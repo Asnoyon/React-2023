@@ -15,4 +15,6 @@ button{
     background-color: blue;
     padding:10px;
     color: white;
+    border: none;
+    border-radius: 1px solid black;
 }
