@@ -11,10 +11,12 @@ h1{
     font-size: 40px;
     padding: 0;
 }
-button{
-    background-color: blue;
-    padding:10px;
+
+.btn button{
+    background-color: rgb(5, 5, 195);
     color: white;
     border: none;
     border-radius: 7px;
+    padding: 10px;
+    font-size: 20px;
 }
