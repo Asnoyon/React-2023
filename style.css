@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
 }
-.container{
+#root{
     text-align: center;
     margin-top: 150px;
 }
@@ -12,7 +12,7 @@ h1{
     padding: 0;
 }
 
-.btn button{
+ button{
     background-color: rgb(5, 5, 195);
     color: white;
     border: none;
